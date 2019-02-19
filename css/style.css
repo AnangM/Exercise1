@@ -13,3 +13,26 @@
 .text-white{
     color: #fff !important;
 }
+body, html{
+    height: 100%;
+}
+
+.main{
+    padding-top:2em;
+    padding-bottom:2em;
+    margin:auto;
+}
+.no-decoration{
+    text-decoration: none;
+}
+.content{
+    padding:2em;
+}
+.profile{
+    max-width: 200px;
+    border-radius: 50%;
+}
+.bg-city{
+    background-image: url("../images/bg.jpg");
+    height: auto;
+}
